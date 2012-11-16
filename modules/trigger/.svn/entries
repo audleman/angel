@@ -1,0 +1,64 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/modules/trigger
+svn://10.0.0.100
+
+
+
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+trigger.admin.inc
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+156d9bf654352f2c9d1235f6e26f065c
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+trigger.module
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+526ef553be04b5b52efdba492a035a8b
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+trigger.install
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+b7bd0edae6a961558ffea8c51423a919
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+trigger.info
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+87306b0e2ef4e60885378f95184b20fe
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+

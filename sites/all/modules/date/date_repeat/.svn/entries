@@ -1,0 +1,79 @@
+8
+
+dir
+426
+svn://10.0.0.100/dallamagna/sites/all/modules/date/date_repeat
+svn://10.0.0.100
+
+
+
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+date_repeat.module
+file
+
+
+
+
+2009-05-12T09:58:59.000000Z
+f905202d8db2dff597e30f6b1092c1b0
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+translations
+dir
+
+date_repeat.install
+file
+
+
+
+
+2008-11-18T16:16:00.000000Z
+f180db6c8d8e9da848d4ed39a7a6323f
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date_repeat.info
+file
+
+
+
+
+2009-09-16T12:15:20.000000Z
+d847a8937887a6a24b622994994479ad
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date_repeat_calc.inc
+file
+
+
+
+
+2009-05-12T09:58:59.000000Z
+bc627479d7cbaf7de1c035153d950f86
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date_repeat_form.inc
+file
+
+
+
+
+2009-02-16T23:46:08.000000Z
+3875af9c9c3e785359c0215ab0376d80
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+

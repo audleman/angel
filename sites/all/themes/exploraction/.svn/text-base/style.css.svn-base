@@ -1,0 +1,933 @@
+/* $Id: style.css,v 1.23 2007/12/17 15:05:09 goba Exp $ */
+
+/*
+** HTML elements
+*/
+body {
+  margin: 0;
+  padding: 0;
+  color: #38322a;
+  background-color: #a6232c;
+  font: 76% Verdana, Arial, Helvetica, sans-serif;
+}
+tr.odd td, tr.even td {
+  /*padding: 0.3em;*/
+}
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  margin-bottom: 0.5em;
+}
+h1 {
+  font-size: 20px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+h2 {
+  font-size: 18px;
+}
+h3, h4, h5, h6 {
+  font-size: 16px;
+}
+p {
+  margin-top: 0.5em;
+  margin-bottom: 0.9em;
+}
+a {
+  text-decoration: none;
+}
+a:link,
+a:visited,
+a:active {
+  color: #0060a2;
+}
+
+a:hover {
+  color: #39c;
+  text-decoration: underline;
+}
+fieldset {
+  border: 1px solid #ccc;
+}
+pre {
+  background-color: #eee;
+  padding: 0.75em 1.5em;
+  font-size: 12px;
+  border: 1px solid #ddd;
+}
+table {
+  /* make <td> sizes relative to body size! */
+  font-size: 1em;
+}
+.form-item label {
+  font-size: 1em;
+  color: #222;
+}
+.item-list .title {
+  font-size: 1em;
+  color: #222;
+}
+.links {
+  margin-bottom: 0;
+}
+.comment .links {
+  margin-bottom: 0;
+}
+
+/*
+** Page layout blocks / IDs
+*/
+
+
+#logo {
+  vertical-align: middle;
+  border: 0;
+}
+#logo img {
+  float: left; /* LTR */
+  padding: 0 1em;
+  border: 0;
+}
+#menu {
+  padding: 0.5em 0.5em 0 0.5em; /* LTR */
+  text-align: right; /* LTR */
+  vertical-align: middle;
+}
+
+#search .form-text, #search .form-submit {
+  border: 1px solid #369;
+  font-size: 1.1em;
+  height: 1.5em;
+  vertical-align: middle;
+}
+#search .form-text {
+  width: 8em;
+  padding: 0 0.5em;
+}
+#mission {
+  background-color: #369;
+  padding: 1.5em 2em;
+  color: #fff;
+}
+#mission a, #mission a:visited {
+  color: #9cf;
+  font-weight: bold;
+}
+.site-name {
+  margin: 0.6em 0 0 ;
+  padding: 0;
+  font-size: 2em;
+}
+.site-name a:link, .site-name a:visited {
+  color: #fff;
+}
+.site-name a:hover {
+  color: #369;
+  text-decoration: none;
+}
+.site-slogan {
+  font-size: 1em;
+  color: #eee;
+  display: block;
+  margin: 0;
+  font-style: italic;
+  font-weight: bold;
+}
+#main {
+  padding-top: 20px;
+  padding-bottom: 55px;
+}
+#mission, .node .content, .comment .content {
+  line-height: 1.4em;
+}
+#help {
+  font-size: 0.9em;
+  margin-bottom: 1em;
+}
+.breadcrumb {
+  margin-bottom: .5em;
+}
+.messages {
+  background-color: #eee;
+  border: 1px solid #ccc;
+  padding: 0.3em;
+  margin-bottom: 1em;
+}
+.error {
+  border-color: red;
+}
+#sidebar-left, #sidebar-right {
+  background-color: #ddd;
+  width: 16em;
+  /* padding in px not ex because IE messes up 100% width tables otherwise */
+  padding: 10px;
+  vertical-align: top;
+}
+
+/*
+** Common declarations for child classes of node, comment, block, box, etc.
+** If you want any of them styled differently for a specific parent, add
+** additional rules /with only the differing properties!/ to .parent .class.
+** See .comment .title for an example.
+*/
+.title, .title a {
+  margin: 0 auto;  /* decrease default margins for h<x>.title */
+}
+.submitted {
+  color: #999;
+  font-size: 0.8em;
+}
+.links {
+  color: #999;
+}
+.links a {
+
+}
+.block, .box {
+  padding: 0 0 1.5em 0; /* LTR */
+}
+.block {
+  padding-bottom: 0.75em;
+  margin-bottom: 1.5em;
+}
+.block .title {
+  margin-bottom: .25em;
+}
+.box .title {
+  font-size: 1.1em;
+}
+.node {
+  margin: .5em 0 2em; /* LTR */
+}
+.sticky {
+  padding: .5em;
+  background-color: #eee;
+  border: solid 1px #ddd;
+}
+.node, .comment {
+  margin: 20px 25px;
+}
+.node .taxonomy {
+  color: #999;
+  font-size: 0.8em;
+  padding-left: 1.5em; /* LTR */
+}
+.node .picture {
+  border: 1px solid #ddd;
+  float: right; /* LTR */
+  margin: 0.5em;
+}
+.comment {
+  border: 1px solid #abc;
+  padding: .5em;
+  margin-bottom: 1em;
+}
+.comment .title a {
+  font-size: 1.1em;
+  font-weight: normal;
+}
+.comment .new {
+  text-align: right; /* LTR */
+  font-weight: bold;
+  font-size: 0.8em;
+  float: right; /* LTR */
+  color: red;
+}
+.comment .picture {
+  border: 1px solid #abc;
+  float: right; /* LTR */
+  margin: 0.5em;
+}
+
+/*
+** Module specific styles
+*/
+#aggregator .feed-source {
+  background-color: #eee;
+  border: 1px solid #ccc;
+  padding: 1em;
+  margin: 1em 0;
+}
+#aggregator .news-item .categories, #aggregator .source, #aggregator .age {
+  color: #999;
+  font-style: italic;
+  font-size: 0.9em;
+}
+#aggregator .title {
+  margin-bottom: 0.5em;
+  font-size: 1em;
+}
+#aggregator h3 {
+  margin-top: 1em;
+}
+#forum table {
+  width: 100%;
+}
+#forum td {
+  padding: 0.5em;
+}
+#forum td.forum, #forum td.posts {
+  background-color: #eee;
+}
+#forum td.topics, #forum td.last-reply {
+  background-color: #ddd;
+}
+#forum td.container {
+  background-color: #ccc;
+}
+#forum td.container a {
+  color: #555;
+}
+#forum td.statistics, #forum td.settings, #forum td.pager {
+  height: 1.5em;
+  border: 1px solid #bbb;
+}
+#forum td .name {
+  color: #96c;
+}
+#forum td .links {
+  padding-top: 0.7em;
+  font-size: 0.9em;
+}
+#profile .profile {
+  clear: both;
+  border: 1px solid #abc;
+  padding: .5em;
+  margin: 1em 0em;
+}
+#profile .profile .name {
+  padding-bottom: 0.5em;
+}
+.block-forum h3 {
+  margin-bottom: .5em;
+}
+div.admin-panel .description {
+  color: #999;
+}
+div.admin-panel .body {
+  background: #f4f4f4;
+}
+div.admin-panel h3 {
+  background-color: #69c;
+  color: #fff;
+  padding: 5px 8px 5px;
+  margin: 0;
+}
+
+/************ Begin DalLamagna ********************/
+
+#shadow_table {
+    margin: auto;
+    padding: 0px;
+}
+
+#shadow_table td#shadow_left {
+    width: 13px;
+    background-image: url('images/shadow_left.gif');
+}
+
+#main_column {
+    width: 915px;
+    margin: auto;
+    background-color: white;
+}
+
+#header {
+    background-color: #fcfbf2;
+    height: 93px;
+    background-image: url('images/hayden_quote.gif');
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#login_link_wrapper {
+    margin: 15px 18px 0px 7px;
+    background-color: #e5e4dc;
+    background-image: url('images/yellow_bg.gif');
+    padding: 7px 5px 7px 10px;
+    
+}
+
+tr.even, tr.odd {
+    background-color: #e5e4dc;
+    background-image: url('images/yellow_bg.gif');
+}
+
+#login_link_wrapper a {
+    text-transform: uppercase;
+    color: black;
+}
+
+#top_nav_green_bar {
+    height: 6px;
+    background-color: #9eb18c;
+}
+
+
+#navlist {
+/*  font-size: 14px;*/
+  padding: 0px 0px 0px 25px;
+  color: #9cf;
+  height: 61px;
+}
+
+#top_nav {
+    background-image: url('images/nav_bg.gif');
+    background-repeat: repeat-x;
+}
+
+#top_nav ul.links li {
+    padding: 18px 37px 27px 37px;
+    /*padding: 0px 18px;*/
+    position: relative;
+    font-size: 14px;
+    top: 18px;
+}
+
+#top_nav ul.links li.active {
+    background-image: url('images/menu_down_arrow.gif');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+
+#top_nav ul.links li.first {
+    background-image: none !important;
+}
+
+#top_nav ul.links li.menu-830 {
+    padding-right: 55px;
+    
+    background-image: url('images/ask_dal_menu_bubble.gif');
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+#top_nav ul.links li.menu-830.active {
+    background-image: url('images/ask_dal_menu_bg.gif');
+    background-position: center center;
+}
+
+#top_nav ul.links li a {
+    color: white;
+    font:"Times New Roman";
+}
+
+#copyright {
+    float: right;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+
+
+#content {
+    margin: 20px 10px 20px 35px;
+}
+
+
+/************************* Dal Lamagna custom styles ********************/
+
+#footer  {
+    background-color: white;
+}
+
+#footer_interior {
+    margin: auto;
+    width: 875px;
+    padding: 50px 0px 40px 40px;
+}
+
+#footer ul.menu li {
+    display: inline;
+    padding: 0px 40px;
+}
+
+#footer ul.menu li ul {
+    width: 150px;
+    padding: 0;
+}
+
+#footer ul.menu li ul li {
+    display: block;
+}
+
+.footer_menu_top_link {
+    padding: 0px 20px 0px 20px;
+    float: left;
+}
+
+.footer_menu_top_link a {
+    color: #716a52;
+    font-size: 14px;
+    text-decoration: underline;
+}
+
+.footer_menu_secondary_link {
+    padding: 2px 0px;
+}
+
+.footer_menu_secondary_link a {
+    font-size: 12px;
+    text-decoration: none;
+}
+
+
+
+.views-row label {
+    font-weight: bold;
+}
+
+
+.page-ask-dal #edit-field-answer-0-value-wrapper,
+.page-ask-dal #switch_edit-field-answer-0-value,
+.page-ask-dal .textarea-identifier,
+.page-ask-dal .collapsible,
+.page-ask-dal h2.title {
+    display: none;
+}
+
+
+#ask-dal-form-div {
+    float: right;
+    width: 400px;
+    margin: 0px 10px 0px 30px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;	
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #666;
+    padding: 10px 5px 10px 15px;
+    background: url("images/fill_block.png") repeat-x scroll 0 100% #FFFFFF;
+    position: relative;
+    top: -20px;
+}
+
+.ask_dal_answer_link {
+    padding: 10px 0px 0px 25px;
+    font-size: 16px;
+    font-style: italic;
+}
+
+
+.ask_dal_entry_table {
+    width: 100%;
+}
+
+
+.ask_dal_entry_table td.fixed_width {
+    width: 40px;
+}
+
+.ask_dal_entry_table td.top_padding {
+    padding-top: 9px;
+}
+
+.ask_dal_entry_table td {
+    vertical-align: top;
+    padding-bottom: 5px;
+}
+
+.big_letter {
+    font-size: 24px;
+    padding-right: 8px;
+}
+
+.ask_dal_entry_table .answer_link {
+
+    font-style: italic;
+}
+
+#edit-question-wrapper {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.view-ask-dal .views-row {
+    margin-bottom: 20px;
+}
+
+.view-ask-dal .views-field-field-question-value p {
+    margin-bottom: 0px;
+}
+
+.pull_quote {
+    margin: 30px 30px 40px 200px;
+    font-family: Arial, Helvetica;
+    font-size: 1.1em;
+}
+
+#ask_dal_form_wrapper {
+    width: 500px;
+    border: 1px solid #333;
+    padding: 10px 30px;
+    float: right;
+    
+}
+/*
+#ask-dal-form .form-item label {
+    float: left;
+    width: 102px;
+    
+}*/
+
+#edit-question {
+    margin-top: 5px;
+}
+
+#ask-dal-form textarea {
+    width: 355px;
+}
+
+#ask-dal-form #edit-submit {
+    float: right;
+    margin-right: 42px;
+}
+.image_and_caption  {
+    width: auto;
+    margin: 5px;
+}
+
+.image_and_caption table td {
+    text-align: center;
+}
+
+.image_and_caption td.caption {
+    text-align: center;
+    font-style: italic;
+}
+
+.left {
+    margin-right: 10px;
+}
+
+.centered {
+    margin: auto;
+}
+
+.right {
+    float: right;
+    margin-left: 10px;
+}
+
+/******************** Common page.tpl.php elements ***/
+
+#content_with_left {
+    margin: 0px 36px;
+}
+
+#content_with_left #col_left {
+    width: 180px;
+    padding-right: 20px;
+    float: left;
+}
+
+#content_with_left #col_right {
+    width: 640px;
+    float: left;
+}
+
+.block-menu ul {
+    margin: 0px;
+    padding: 0px;
+    width: 163px;
+}
+
+.block-menu ul li {
+    list-style: none;
+    padding: 5px 0px 7px 0px;
+    margin-left: 0px;
+    border-bottom: 1px solid #e6f4ee;
+}
+
+ul.nice-menu {
+    border: none;
+}
+
+ul.nice-menu li {
+    background-color: white;
+    padding: 5px 0px 7px 0px;
+    margin-left: 0px;
+    border-bottom: 1px solid #e6f4ee;
+    border-right: none;
+    border-left: none;
+}
+
+ul.nice-menu a {
+    padding: 0px;
+}
+
+
+/******************** Raising Eyebrows page *******/
+
+#raising_eyebrows_main #content {
+    margin-left: 0px;
+}
+
+#raising_eyebrows_main #full_right {
+    width: 210px;
+    float: right;
+    margin-left: 20px;
+}
+
+#raising_eyebrows_main #login_link_wrapper {
+    margin: 0px 0px 0px 0px;
+    padding: 7px 5px 7px 10px;
+    
+}
+
+#raising_eyebrows_main #full_left {
+    width: 675px;
+    float: right;
+}
+
+
+#raising_eyebrows_main #cover {
+    width: 400px;
+    float: left;
+    height: 481px;
+    background-image: url('images/raising_eyebrows_partial.gif');
+}
+
+#raising_eyebrows_main #left_menu {
+    float: left;
+    width: 220px;
+    margin-left: 20px;
+}
+
+#special_materials {
+    width: 634px;
+    height: 85px;
+    margin-bottom: 15px;
+    float: left;
+}
+
+#special_materials_text {
+    width: 567px;
+    text-align: right;
+    position: relative;
+    top: -17px;
+    left: 2px;
+    font-size: 11px;
+}
+
+#arrow_text {
+    position: relative;
+    top: 27px;
+    left: 47px;
+    font-weight: bold;
+}
+
+#arrow_text a {
+    color: white;
+}
+
+#special_materials_go_button {
+    position: relative;
+    left: 579px;
+    top: 8px;
+}
+
+#raising_eyebrows_jacket {
+    position: relative;
+    top: -55px;
+}
+
+#download_chapter_1_text {
+    font-size: 14px;
+}
+#pdf_go_button {
+    position: relative;
+    top: 5px;
+}
+
+#reviews {
+    float: left;
+    width: 420px;
+    padding-top: 6px;
+}
+
+
+
+#ask_dal {
+    float: left;
+    margin-left: 20px;
+    margin-right: 30px;
+    width: 200px;
+}
+
+#ask_dal_bubble {
+    margin-left: 10px;
+    position: relative;
+    top: 6px;
+}
+
+.raising_eyebrows_sub_header {
+    margin-bottom: 20px;
+    color: #0060a2;
+}
+
+
+#ask_dal_go_button {
+    position: relative;
+    left: 85px;
+    top: -23px;
+}
+
+#raising_eyebrows_main h2 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 34px;
+}
+
+#buy_options {
+    border: 6px solid #0d5a8e;
+    margin: 50px 0px 38px 0px;
+    padding: 17px 0px 17px 0px;
+}
+
+img#buy_book,
+img#book_jacket_sm {
+    margin-bottom: 17px;
+}
+
+
+.comment_count {
+    color: #b4b2ab;
+}
+
+.view-ask-dal-raising-eyebrows-block .views-row {
+    margin-bottom: 20px;
+}
+
+.row_divider {
+    margin-top: 20px;
+    border-top: 1px solid black; 
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.views-row-last .row_divider {
+    border: none;
+}
+
+#raising_eyebrows_main .view-press-listing {
+    width: 320px;
+}
+
+.view-reader-reactions {
+    width: 360px;
+}
+
+.ask_dal_question #page_title {
+    display: none;
+}
+
+.view-press-listing .views-row,
+.view-reader-reactions .views-row {
+    padding-bottom: 30px;
+}
+
+.press_source {
+    font-style: italic;
+}
+
+#press_more_link {
+    padding-bottom: 30px;
+}
+
+.press_date,
+.post_date {
+    font-style: italic;
+    color: #b4b2ab;
+}
+/******************** Front page *****************/
+
+#dal_lamagna_title {
+    padding-left: 8px;
+}
+
+#front_content {
+    margin: 0px 53px;
+}
+
+/*#front_content h1 {
+    font-size: 50px;
+    margin: 0px;
+}*/
+
+#front_content #col_left {
+    width: 265px;
+    float: left;
+}
+
+#front_content #col_left img {
+    padding-left: 8px;
+}
+
+#front_content #col_right {
+    float: left;
+    width: 543px;
+    padding-top: 21px;
+}
+
+#front_content #col_right .node {
+    margin-top: 0px;
+}
+
+#dal_portrait {
+    margin-top: 30px;
+}
+
+#dal_identity {
+    text-align: center;
+    color: #9f9786;
+    font-size: 14px;
+    letter-spacing: 4px;
+    position: relative;
+    top: -11px;
+}
+
+.social_media_div  {
+    padding-top: 15px;
+    text-transform: uppercase;
+}
+
+.social_media_div img {
+    float: left;
+    padding-right: 15px;
+}
+
+.page-41 .comment .links .comment_reply {
+    display: none; /* Hiding reply links on Reader Reactions page */
+}
+
+/****************** Events *****************/
+
+
+.view-upcoming-events .views-field-field-event-date-value {
+    width: 150px;
+}
+
+.view-upcoming-events .views-field-title {
+    width:200px; 
+    padding: 0px 20px 0px 10px;
+}
+
+#tweezerman_affiliate {
+    padding-top: 40px;
+}
+
+#newsletter_signup_home {
+    padding-top: 25px;
+}
+
+#newsletter_signup_raising_eyebrows {
+    padding-bottom: 15px;
+}
+
+
+
+
+
+
+

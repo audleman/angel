@@ -1,0 +1,64 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/imce/js
+svn://10.0.0.100
+
+
+
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+imce_set_inline.js
+file
+
+
+
+
+2009-09-21T14:26:39.000000Z
+72ec44b779bd825628a4083478c76fc0
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+imce_set_app.js
+file
+
+
+
+
+2010-02-01T15:55:02.000000Z
+7a85aae9d6d9dee3b964eeb7c03ff0dc
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+imce.js
+file
+
+
+
+
+2010-02-01T15:46:10.000000Z
+24461ce7055ba41674c17cc9c22ad005
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+imce_extras.js
+file
+
+
+
+
+2010-02-01T15:47:01.000000Z
+19d38a60aaa74ae3bf65e77c05401805
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+

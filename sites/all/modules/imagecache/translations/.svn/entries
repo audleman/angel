@@ -1,0 +1,65 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/imagecache/translations
+svn://10.0.0.100
+
+
+
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+fr.po
+file
+
+
+
+
+2010-08-28T18:08:00.000000Z
+edca5c032e7e18dfb5c520dc69cc410a
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+de.po
+file
+
+
+
+
+2010-08-28T18:08:00.000000Z
+a333fde1d95948bbe87ccc855b6ffb7b
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+has-props
+
+nl.po
+file
+
+
+
+
+2010-08-28T18:08:00.000000Z
+7dc025e6d8fadbae7e034b031fae2887
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+ja.po
+file
+
+
+
+
+2010-08-28T18:08:00.000000Z
+8a1e859dcc004587d09bb8a623cede41
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+

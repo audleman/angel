@@ -1,0 +1,91 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+GPL-LICENSE.txt
+file
+
+
+
+
+2010-08-29T19:40:01.000000Z
+1e8d9cb316fe8756ac3e0f9c75ec4f9c
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+external
+dir
+
+tests
+dir
+
+AUTHORS.txt
+file
+
+
+
+
+2010-08-29T19:40:01.000000Z
+3b2713c76df644f53c35394751d1f1e2
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+version.txt
+file
+
+
+
+
+2010-08-29T19:40:01.000000Z
+aab2a334e6c3fecb83d15975d56f8683
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+themes
+dir
+
+demos
+dir
+
+MIT-LICENSE.txt
+file
+
+
+
+
+2010-08-29T19:40:01.000000Z
+36f63ad32cd2b2c605dadf07b2f0d35a
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+jquery-1.3.1.js
+file
+
+
+
+
+2010-08-29T19:40:01.000000Z
+648bc270087ec4f3b5059d06698c6ba5
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+ui
+dir
+

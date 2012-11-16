@@ -1,0 +1,52 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/fckeditor/fckeditor/editor/dtd
+svn://10.0.0.100
+
+
+
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+fck_dtd_test.html
+file
+
+
+
+
+2010-08-28T18:08:03.000000Z
+93fa2b16695ae0f56639a051b9616f0e
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+fck_xhtml10transitional.js
+file
+
+
+
+
+2010-08-28T18:08:03.000000Z
+dd55e669419ae1daf2480526560cbc83
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+fck_xhtml10strict.js
+file
+
+
+
+
+2010-08-28T18:08:03.000000Z
+485d06f82beca7db1990b5fb163dfc1b
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+

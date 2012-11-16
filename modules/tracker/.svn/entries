@@ -1,0 +1,64 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/modules/tracker
+svn://10.0.0.100
+
+
+
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+tracker.module
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+216e883c23d581cf296a3f6be8e2f170
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+tracker.pages.inc
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+7c65e9bbe927d6e0bc3f1234c1e49ba5
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+tracker.css
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+9b3471e0ebd71a962acfd32fdd72e8e0
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+tracker.info
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+48869ad7be0e9bf803857a5aff4136da
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+

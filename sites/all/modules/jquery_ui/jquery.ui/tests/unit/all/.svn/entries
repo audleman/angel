@@ -1,0 +1,40 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/tests/unit/all
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+all.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+b1570594ca2506fbdd5dfeac2c21dd2a
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+all_2.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+a035f201f732b153e556908d337843a7
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+

@@ -1,0 +1,76 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/fckeditor/fckeditor/_samples/perl
+svn://10.0.0.100
+
+
+
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+sample01.cgi
+file
+
+
+
+
+2010-08-28T18:08:05.000000Z
+7ea622fb5c6292219276b690b301845b
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+sample02.cgi
+file
+
+
+
+
+2010-08-28T18:08:05.000000Z
+3dc11220795384afa2bfa14cb86ffb12
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+sample03.cgi
+file
+
+
+
+
+2010-08-28T18:08:05.000000Z
+887a5588be13f110fc44f885b938bbda
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+sample04.cgi
+file
+
+
+
+
+2010-08-28T18:08:05.000000Z
+5df18f8744efa943197057228e312fac
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+sampleposteddata.cgi
+file
+
+
+
+
+2010-08-28T18:08:05.000000Z
+43907f6c1e6e261623ec8cabca180ca5
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+

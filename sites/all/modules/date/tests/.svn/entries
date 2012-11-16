@@ -1,0 +1,88 @@
+8
+
+dir
+426
+svn://10.0.0.100/dallamagna/sites/all/modules/date/tests
+svn://10.0.0.100
+
+
+
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+USHolidays.ics
+file
+
+
+
+
+2009-02-21T12:52:16.000000Z
+2e8528f3fba7f2ccdc0fa6d6a95b0fcc
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date_api.test
+file
+
+
+
+
+2009-03-18T10:27:19.000000Z
+5a1605c237d3d774cbbcd322c3a2a2b9
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+rrule.ics
+file
+
+
+
+
+2009-02-21T12:52:16.000000Z
+6e74f3186b860609b3737e3d4a35302f
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+Yahoo.csv
+file
+
+
+
+
+2009-02-21T12:52:16.000000Z
+e33c379e4873b30ba5499263e992e53f
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date_repeat.test
+file
+
+
+
+
+2009-03-17T22:57:30.000000Z
+ead605a4870322c2b79735b1e8202fd4
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+README.txt
+file
+
+
+
+
+2009-02-21T12:52:16.000000Z
+987b0ce7235e842267c5f3c75d79bf4a
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+

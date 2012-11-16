@@ -1,0 +1,40 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/tests/unit/dialog
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+dialog.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+f68a0ae16a98f297e1532ab6b5e67e39
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+dialog.js
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+babc79ffc7c9f60f45d81e338236460a
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+

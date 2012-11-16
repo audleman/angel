@@ -1,0 +1,34 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/fckeditor/fckeditor/editor/plugins
+svn://10.0.0.100
+
+
+
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+placeholder
+dir
+
+autogrow
+dir
+
+dragresizetable
+dir
+
+tablecommands
+dir
+
+simplecommands
+dir
+
+bbcode
+dir
+

@@ -1,0 +1,64 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/demos/selectable
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+default.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+07227c5b209d9138b9157f0573ace75d
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+index.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+7ccaaa227ad67aa4712bcc2089b38dd6
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+serialize.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+bf0176d5f48147d7b81797c8855fe7fa
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+display-grid.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+5da0255b99a2e41367f5f35d60212dd7
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+

@@ -1,0 +1,76 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/modules/statistics
+svn://10.0.0.100
+
+
+
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+statistics.install
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+261514ef413eef6ab3642aebe73bce80
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+statistics.pages.inc
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+a2c1e3bb812fb00dffd18f77cfca508b
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+statistics.info
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+0ae7d190e8222bac38a15d17cc4979dd
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+statistics.admin.inc
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+3394ab8583626ea21c2d3c167b4092d2
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+statistics.module
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+1ee31cc989d68ed4005c950084ccee9c
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+

@@ -1,0 +1,40 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/cck/modules/nodereference/help
+svn://10.0.0.100
+
+
+
+2010-08-29T16:52:20.693857Z
+403
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+nodereference.html
+file
+
+
+
+
+2010-08-29T16:51:54.000000Z
+e1679ff7787488542cfc1d70cb0921ee
+2010-08-29T16:52:20.693857Z
+403
+kaudleman
+
+nodereference.help.ini
+file
+
+
+
+
+2010-08-29T16:51:54.000000Z
+3680e1728650d0867b6823dda7e84c59
+2010-08-29T16:52:20.693857Z
+403
+kaudleman
+

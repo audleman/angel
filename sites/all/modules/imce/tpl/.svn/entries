@@ -1,0 +1,52 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/imce/tpl
+svn://10.0.0.100
+
+
+
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+imce-file-list.tpl.php
+file
+
+
+
+
+2008-03-24T07:32:28.000000Z
+3abe24ab6f574e6769989fa08236eb27
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+imce-content.tpl.php
+file
+
+
+
+
+2009-09-28T18:21:54.000000Z
+5342b86bc60478201de789077d81af64
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+imce-page.tpl.php
+file
+
+
+
+
+2010-02-01T17:54:14.000000Z
+9a16cfb05311e7968781cb50fd00bf0b
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+

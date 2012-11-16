@@ -1,0 +1,64 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/modules/locale
+svn://10.0.0.100
+
+
+
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+locale.module
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+592282b661c248fac3b43de563774904
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+locale.install
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+042f91eeedb81bd7eae33b4003380935
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+locale.css
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+b9b7effdd09fe48e04660efdf5806622
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+locale.info
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+97c77245ee14153e8e6fdf1210a50a64
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+

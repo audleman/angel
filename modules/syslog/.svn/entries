@@ -1,0 +1,40 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/modules/syslog
+svn://10.0.0.100
+
+
+
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+syslog.module
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+1bc76df6f9c41c425cd79d475258b30b
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+syslog.info
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+0c168fc2c2e0925a33d811c33e0b6971
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+

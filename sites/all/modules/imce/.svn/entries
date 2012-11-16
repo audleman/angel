@@ -1,0 +1,91 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/imce
+svn://10.0.0.100
+
+
+
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+tpl
+dir
+
+LICENSE.txt
+file
+
+
+
+
+2006-04-23T09:54:26.000000Z
+998ed0c116c0cebfcd9b2107b0d82973
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+imce.module
+file
+
+
+
+
+2010-05-29T02:06:32.000000Z
+7ca34e38afc4c4cc4edb9386d39d4d1d
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+translations
+dir
+
+imce.install
+file
+
+
+
+
+2010-05-29T02:06:32.000000Z
+bc51db86a1a26c25da714f4b8c0eb8c6
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+imce.info
+file
+
+
+
+
+2010-05-29T02:25:07.000000Z
+45d4e1dd563564787f8f07a984b40fdd
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+css
+dir
+
+inc
+dir
+
+README.txt
+file
+
+
+
+
+2010-02-01T15:42:58.000000Z
+5ec58cee250f74afbfdb44247d4d5c3c
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+js
+dir
+

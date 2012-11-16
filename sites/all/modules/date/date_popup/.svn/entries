@@ -1,0 +1,73 @@
+8
+
+dir
+426
+svn://10.0.0.100/dallamagna/sites/all/modules/date/date_popup
+svn://10.0.0.100
+
+
+
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+translations
+dir
+
+date_popup.module
+file
+
+
+
+
+2009-08-13T16:17:29.000000Z
+3a406ee52e03f0e5e9c43d90aa3e964b
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date_popup.install
+file
+
+
+
+
+2009-07-29T10:53:38.000000Z
+21081e65024fa08114506b82bc36b62a
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+themes
+dir
+
+lib
+dir
+
+date_popup.info
+file
+
+
+
+
+2009-09-16T12:15:20.000000Z
+8d26d306aa4cd97bd60617cbe9743807
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date_popup.js
+file
+
+
+
+
+2009-01-12T17:23:25.000000Z
+1d869c8fb8fdd615173f193d763c6769
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+

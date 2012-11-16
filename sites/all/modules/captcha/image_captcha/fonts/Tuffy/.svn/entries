@@ -1,0 +1,54 @@
+8
+
+dir
+559
+svn://75.149.164.50/dallamagna/sites/all/modules/captcha/image_captcha/fonts/Tuffy
+svn://75.149.164.50
+
+
+
+2011-03-03T21:16:09.563144Z
+559
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+Tuffy.ttf
+file
+
+
+
+
+2009-09-19T12:51:20.000000Z
+1c28f465d9f1379f07437d9df543d422
+2011-03-03T21:16:09.563144Z
+559
+kaudleman
+has-props
+
+Tuffy_Bold.ttf
+file
+
+
+
+
+2009-09-19T12:51:20.000000Z
+32c9f4f8f5079ce7718df5028bba4ee2
+2011-03-03T21:16:09.563144Z
+559
+kaudleman
+has-props
+
+README.txt
+file
+
+
+
+
+2009-09-19T12:51:20.000000Z
+12af202b2c4820ce88ea9773df097fdb
+2011-03-03T21:16:09.563144Z
+559
+kaudleman
+

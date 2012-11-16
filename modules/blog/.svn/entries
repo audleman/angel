@@ -1,0 +1,52 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/modules/blog
+svn://10.0.0.100
+
+
+
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+blog.module
+file
+
+
+
+
+2010-08-28T17:42:26.000000Z
+bde8ee0ff879911d9d90e8849e90013c
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+blog.pages.inc
+file
+
+
+
+
+2010-08-28T17:42:26.000000Z
+d2bd84ba25481d09fbb5d5a42a6f3b45
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+blog.info
+file
+
+
+
+
+2010-08-28T17:42:26.000000Z
+04e815fd26ef03921b826f277dd5bc2d
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+

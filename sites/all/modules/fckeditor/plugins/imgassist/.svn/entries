@@ -1,0 +1,66 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/fckeditor/plugins/imgassist
+svn://10.0.0.100
+
+
+
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+imgassist_small.gif
+file
+
+
+
+
+2010-08-28T18:08:05.000000Z
+f876c91055fba04f8472abad7a7dfb93
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+has-props
+
+imgassist.gif
+file
+
+
+
+
+2010-08-28T18:08:05.000000Z
+4e3b9945dfd82d9fcd3ca6a63dd601af
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+has-props
+
+fck_imgassist.html
+file
+
+
+
+
+2010-08-28T18:08:05.000000Z
+c09c74fb2e18fbf30cab317932de64e5
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+fckplugin.js
+file
+
+
+
+
+2010-08-28T18:08:05.000000Z
+378d1bcf20be545038abb6787b6c8c16
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+

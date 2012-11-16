@@ -1,0 +1,20 @@
+; $Id: bluemarine.info,v 1.4 2007/06/08 05:50:57 dries Exp $
+name = Dal LaMagna Theme
+description = Custom theme for Dal LaMagna.
+version = VERSION
+core = 6.x
+engine = phptemplate
+
+; Information added by drupal.org packaging script on 2010-08-11
+version = "6.19"
+project = "drupal"
+datestamp = "1281559292"
+
+; Add a stylesheet for all media
+stylesheets[screen][] = sifr/sIFR-screen.css
+stylesheets[print][] = sifr/sIFR-print.css
+stylesheets[all][] = style.css
+
+; Add sIFR Javascript
+scripts[] = sifr/sifr.js
+scripts[] = sifr/sifr-addons.js

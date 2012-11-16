@@ -1,0 +1,40 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/tests/unit/selectable
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+selectable.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+b481c5977b2a537d0a5ee3dd18c12c93
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+selectable.js
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+6ca47cded70bd556e6573ce134aa8c6b
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+

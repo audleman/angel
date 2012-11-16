@@ -1,0 +1,223 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/filefield
+svn://10.0.0.100
+
+
+
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+translations
+dir
+
+filefield.install
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+81c54f69079368dcea6173244706e38c
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+filefield_meta
+dir
+
+filefield.devel.inc
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+abd5f6cbe4a300246f33dd6dfc2e2795
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+field_file.inc
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+aa03805de2916667c662efd0371b0382
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+filefield.theme.inc
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+53e98fba63832a0b7cf023ecf25d1f64
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+views
+dir
+
+filefield_widget.inc
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+11674cbc20fffcac461c11882b45a62c
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+filefield_field.inc
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+d1a4f1a62cab5f81866c1f8297bdfb2c
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+filefield.js
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+e9b84080b3ccfb3464e2fa257812187a
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+LICENSE.txt
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+998ed0c116c0cebfcd9b2107b0d82973
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+tests
+dir
+
+UPGRADE.txt
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+eb9d2314852667d1cf679031e218e351
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+filefield.module
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+76c8895e8bfd09a52cdc4983f86e51ac
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+filefield-rtl.css
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+1566c57272c6cae59a7f6997d8358093
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+filefield.token.inc
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+cc071daee53e12b05c7cc87bd97a2cf8
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+filefield.css
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+539589dedb362adea1ebb5496729a521
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+icons
+dir
+
+README.txt
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+979bc79e7b1dbce5aa216c39a4ed9aa7
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+filefield.info
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+ce519f267237d99fd4ebdd9652c592d1
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+filefield_formatter.inc
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+25fdca17826480c80d435bbcfba5f8e6
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+

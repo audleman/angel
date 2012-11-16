@@ -1,0 +1,20 @@
+# -FrontPage-
+
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+Options +Includes
+AddType text/html .shtml
+AddHandler server-parsed .shtml .html .htm
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName www.feldenkraisinseattle.com
+AuthUserFile /home/diva65/public_html/_vti_pvt/service.pwd
+AuthGroupFile /home/diva65/public_html/_vti_pvt/service.grp

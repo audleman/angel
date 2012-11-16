@@ -1,0 +1,81 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/demos/images
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+demo-config-on-tile.gif
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+9a2e8ddd35491a1ac89360a528906009
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+has-props
+
+demo-config-on.gif
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+07336fd3715bd061780ae4eabcacffb8
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+has-props
+
+demo-spindown-open.gif
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+93925f58911c5bed07dc81cfbf5948ad
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+has-props
+
+icon-docs-info.gif
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+9c1b5ca8582cb5a24fce3d8adb195dfa
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+has-props
+
+demo-spindown-closed.gif
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+7acc2175897dfc6099918c0584643d91
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+has-props
+

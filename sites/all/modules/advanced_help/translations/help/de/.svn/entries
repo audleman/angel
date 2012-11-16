@@ -1,0 +1,76 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/advanced_help/translations/help/de
+svn://10.0.0.100
+
+
+
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+ini-file.html
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+fb2505aa15adb3f29ae555874ab09f26
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+translation.html
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+6ff22528cc2e59ce9856f88bcaa732bc
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+using-advanced-help.html
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+1f2639372dd4620f05c7df7f3724a97e
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+advanced_help.help.ini
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+82517cf5521404b23a95a968b93e5a3b
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+why-advanced-help.html
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+f56cad1eeaddca96f6bc6e1bbef53f59
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+

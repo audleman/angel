@@ -1,0 +1,44 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/fckeditor/plugins/drupalbreak
+svn://10.0.0.100
+
+
+
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+drupalbreak.gif
+file
+
+
+
+
+2010-08-28T18:08:05.000000Z
+3c45fc2360ad2be3947c3ed5354d8c2d
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+has-props
+
+lang
+dir
+
+fckplugin.js
+file
+
+
+
+
+2010-08-28T18:08:05.000000Z
+0c44b5d50dcbc35f404e87a0b19ab3b0
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+

@@ -1,0 +1,70 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/filefield/filefield_meta
+svn://10.0.0.100
+
+
+
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+fielfield_meta.token.inc
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+20021a4df4d630d3cf727eec1ae88915
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+translations
+dir
+
+filefield_meta.info
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+0372057bce9d5ca1bd255d73d55c9fe8
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+includes
+dir
+
+filefield_meta.module
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+8e4923b4481970ab25f54641d3c53958
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+filefield_meta.install
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+f9ad41c9f9db00a083f02f6d63202877
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+

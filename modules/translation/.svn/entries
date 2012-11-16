@@ -1,0 +1,52 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/modules/translation
+svn://10.0.0.100
+
+
+
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+translation.module
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+8cf189345207779dabd729164721d8b1
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+translation.pages.inc
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+056453bf979c227c7a3624f436ecee6c
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+translation.info
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+a112ecfceb8692aaf3991ec202fecce1
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+

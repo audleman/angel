@@ -1,0 +1,145 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/admin_menu
+svn://10.0.0.100
+
+
+
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+admin_menu.module
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+6cd7c5fb62893170a4ba07fc9e1d683a
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+LICENSE.txt
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+998ed0c116c0cebfcd9b2107b0d82973
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+admin_menu.install
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+44d3e55b870783ddd541a04d91564874
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+translations
+dir
+
+admin_menu-rtl.css
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+4e5cebc1fc45f406f2b6c5d70cf9c4f6
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+tests
+dir
+
+admin_menu.css
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+374b1f78360c0333287425eaf8dc0cc2
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+admin_menu.inc
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+fa012a907fdff35c1bb60719b0d2d65c
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+CHANGELOG.txt
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+e8177b8786cab54590f099d34712bdb8
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+images
+dir
+
+admin_menu.info
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+30cfea80a712482e9a9491b5846c87c4
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+admin_menu.js
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+c10fc375cd4453da61538c758fbe736b
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+README.txt
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+8265de66f49781b69aab9f5794b22e27
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+

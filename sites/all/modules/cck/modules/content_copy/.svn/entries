@@ -1,0 +1,55 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/cck/modules/content_copy
+svn://10.0.0.100
+
+
+
+2010-08-29T16:52:20.693857Z
+403
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+translations
+dir
+
+content_copy.module
+file
+
+
+
+
+2010-08-29T16:51:54.000000Z
+53e9145451e249e8277dceba5cf7801e
+2010-08-29T16:52:20.693857Z
+403
+kaudleman
+
+content_copy_export_form.tpl.php
+file
+
+
+
+
+2010-08-29T16:51:54.000000Z
+fb88a3002242663d2b94aeb530ddf1d2
+2010-08-29T16:52:20.693857Z
+403
+kaudleman
+
+content_copy.info
+file
+
+
+
+
+2010-08-29T16:51:54.000000Z
+490a46601dafb93547a80ce25a38d718
+2010-08-29T16:52:20.693857Z
+403
+kaudleman
+

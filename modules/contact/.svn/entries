@@ -1,0 +1,76 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/modules/contact
+svn://10.0.0.100
+
+
+
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+contact.module
+file
+
+
+
+
+2010-08-28T17:42:26.000000Z
+ef33c67f0606a3b28814e4f9d4c68b6b
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+contact.install
+file
+
+
+
+
+2010-08-28T17:42:26.000000Z
+cc576183fb500b9534f79781affcf599
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+contact.pages.inc
+file
+
+
+
+
+2010-08-28T17:42:26.000000Z
+f5f69fafeb739cec0af370615a67bc19
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+contact.info
+file
+
+
+
+
+2010-08-28T17:42:26.000000Z
+a26caa7a0a2b9401d7fbf528f1901bf8
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+contact.admin.inc
+file
+
+
+
+
+2010-08-28T17:42:26.000000Z
+6a056637440bb29aada00fc5ec6e7d2d
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+

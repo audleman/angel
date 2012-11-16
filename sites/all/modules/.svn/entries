@@ -1,0 +1,91 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f74f85d9-7c97-4b0a-a985-38f6ac3230ef
+
+token
+dir
+
+dallamagna
+dir
+
+transliteration
+dir
+
+google_analytics
+dir
+
+filefield
+dir
+
+pathauto
+dir
+
+imagefield
+dir
+
+content_access
+dir
+
+views
+dir
+
+ask_dal
+dir
+
+cck
+dir
+
+nodewords
+dir
+
+imagecache
+dir
+
+fckeditor
+dir
+
+jquery_ui
+dir
+
+admin_menu
+dir
+
+imageapi
+dir
+
+advanced_help
+dir
+
+imce
+dir
+
+date
+dir
+
+formblock
+dir
+

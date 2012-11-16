@@ -1,0 +1,94 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/demos
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+effect_types
+dir
+
+resizable
+dir
+
+slider
+dir
+
+effects_feedback
+dir
+
+effects_easings
+dir
+
+progressbar
+dir
+
+effects_movement
+dir
+
+tabs
+dir
+
+demos.css
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+99d2be8f472e389adf663e18eaf800fe
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+dialog
+dir
+
+accordion
+dir
+
+selectable
+dir
+
+images
+dir
+
+droppable
+dir
+
+draggable
+dir
+
+effects_showhide
+dir
+
+index.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+b6d794d23cb5bad40f8836a3a9da1e3f
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+datepicker
+dir
+
+sortable
+dir
+
+effects_general
+dir
+

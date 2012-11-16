@@ -1,0 +1,46 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/advanced_help/help_example
+svn://10.0.0.100
+
+
+
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+translations
+dir
+
+help_example.module
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+f09a63aafe6ae068df6a697ec54e47b1
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+help
+dir
+
+help_example.info
+file
+
+
+
+
+2010-08-28T18:08:07.000000Z
+4f20a63a9138a82ab30c7f523c0d1bb9
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+

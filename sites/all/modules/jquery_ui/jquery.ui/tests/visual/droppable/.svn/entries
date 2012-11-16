@@ -1,0 +1,40 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/tests/visual/droppable
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+default.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+66d22873f576e76f23ed4d2fd967bacd
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+droppable.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+5193fd13a91daf1bedc27a9eb55d83e4
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+

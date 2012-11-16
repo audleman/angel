@@ -1,0 +1,235 @@
+8
+
+dir
+426
+svn://10.0.0.100/dallamagna/sites/all/modules/date
+svn://10.0.0.100
+
+
+
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+translations
+dir
+
+date_api.js
+file
+
+
+
+
+2009-01-25T13:03:13.000000Z
+047f6b1f45b6d9322b34c38ca129dc31
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+INSTALL.txt
+file
+
+
+
+
+2008-02-15T13:23:53.000000Z
+99c65de49dc4fc6bf76f6e93fcb25e97
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date_timezone
+dir
+
+help
+dir
+
+date_api.module
+file
+
+
+
+
+2009-08-13T10:57:27.000000Z
+c2790ee37213e2169a7b9e616f513849
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date_locale
+dir
+
+date_tools
+dir
+
+date_api_sql.inc
+file
+
+
+
+
+2009-09-16T11:13:01.000000Z
+d4ea2c10f2b9a54f376081e15f281cbd
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+LICENSE.txt
+file
+
+
+
+
+2006-04-23T09:54:26.000000Z
+998ed0c116c0cebfcd9b2107b0d82973
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date_popup
+dir
+
+date_api.info
+file
+
+
+
+
+2009-09-16T12:15:20.000000Z
+055006a763888af153b00e3352441582
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+theme
+dir
+
+tests
+dir
+
+date-rtl.css
+file
+
+
+
+
+2009-09-16T11:16:00.000000Z
+8743c1132ab2b6afd298e71288845fab
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date_api_formats_list.inc
+file
+
+
+
+
+2009-01-25T13:03:13.000000Z
+7528d135de5e6af57581c28bbcc9546b
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date.css
+file
+
+
+
+
+2009-06-08T11:50:42.000000Z
+6859fa4c1a3bc07d697b753b70b2888a
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date_api.admin.inc
+file
+
+
+
+
+2009-03-19T23:22:32.000000Z
+d5b84d3ed36886acf751b77000d0fb49
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+CHANGELOG.txt
+file
+
+
+
+
+2009-09-16T11:13:01.000000Z
+ba930adb04b807c20c30735c194a9863
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+images
+dir
+
+date_api_ical.inc
+file
+
+
+
+
+2009-05-10T12:44:14.000000Z
+95ddd03aef6312cca2ddf6cd5e5d74fa
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+includes
+dir
+
+date_php4
+dir
+
+date_api_elements.inc
+file
+
+
+
+
+2009-09-16T10:56:28.000000Z
+52eb55097a6afd03e10a1155f1f03bac
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date_api.install
+file
+
+
+
+
+2009-08-21T20:45:50.000000Z
+41967120e14b09f0d680ef23533c4b5e
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+README.txt
+file
+
+
+
+
+2009-03-17T18:35:29.000000Z
+37838a0a35dffbf156d21e49a4ae1194
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date
+dir
+
+date_repeat
+dir
+

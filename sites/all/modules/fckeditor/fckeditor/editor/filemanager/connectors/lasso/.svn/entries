@@ -1,0 +1,52 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/fckeditor/fckeditor/editor/filemanager/connectors/lasso
+svn://10.0.0.100
+
+
+
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+upload.lasso
+file
+
+
+
+
+2010-08-28T18:08:04.000000Z
+d13437efad95a866d4f21c903564c6d5
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+config.lasso
+file
+
+
+
+
+2010-08-28T18:08:04.000000Z
+c5500596f113f2b8fc2b333b29b0b1f9
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+connector.lasso
+file
+
+
+
+
+2010-08-28T18:08:04.000000Z
+924e666d19e929943c0126b49a1d8031
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+

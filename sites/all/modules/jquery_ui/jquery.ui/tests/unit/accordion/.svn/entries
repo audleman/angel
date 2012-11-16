@@ -1,0 +1,40 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/tests/unit/accordion
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+accordion.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+5e609227cb22dffca831face7c5f86ae
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+accordion.js
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+3ccb6cfe9c43456a290607c09f553e56
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+

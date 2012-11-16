@@ -1,0 +1,52 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/tests/visual/sortable
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+default.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+fbcae57ad0f817d62a3eaaf505c32a9c
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+sortable_massive_scale.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+89499410a63d7feb02c8e04692aeaef4
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+sortable.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+1b374e7a3c7afe047bd65d1110894097
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+

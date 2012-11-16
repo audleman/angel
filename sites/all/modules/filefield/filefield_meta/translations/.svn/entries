@@ -1,0 +1,52 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/filefield/filefield_meta/translations
+svn://10.0.0.100
+
+
+
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+de.po
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+571761d1ce8b01a7cf3c4893a432104c
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+ja.po
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+20a0b96e754340ac7354b794c878901f
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+filefield_meta.pot
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+662ad6824389c3d75ff63b7b55e49c3c
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+

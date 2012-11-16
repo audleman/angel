@@ -1,0 +1,67 @@
+<?php
+// $Id: page.tpl.php,v 1.28.2.1 2009/04/30 00:13:31 goba Exp $
+
+
+    global $user;
+
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="<?php print $language->language ?>" xml:lang="<?php print $language->language ?>" dir="<?php print $language->dir ?>">
+
+<head>
+  <?php print $head ?>
+  <title><?php print $head_title ?></title>
+  <?php print $styles ?>
+  <?php print $scripts ?>
+  <script type="text/javascript"><?php /* Needed to avoid Flash of Unstyle Content in IE */ ?> </script>
+</head>
+
+<body>
+<table id="shadow_table" cellspacing="0" cellpadding="0">
+    <tr>
+        <td id="shadow_left"></td>
+        <td>
+            <div id="main_column">
+                <div id="header">
+                    <div class="clear-block"></div>
+                </div>
+                <!-- <div id="top_nav_green_bar"></div> -->
+                <div id="top_nav">
+                    <div id="primary_links">
+                        <?php if (isset($primary_links)) {  
+                                print theme('links', $primary_links, array('class' => 'links', 'id' => 'navlist'));
+                             } ?>
+                    </div>
+                </div>
+    
+                <div id="main">
+                        
+                    <?php
+                        $content_id_tag = $left ? "content_with_left" : 'content';
+                    ?>
+                    <div id="<?=$content_id_tag?>">
+                        <?php if($left){ ?>
+                        <div id="col_left">
+                            <?php print $left; ?>
+                        </div>
+                        <?php } ?>
+                        <div id="col_right">
+                            <h2><?=$title?></h2>
+                            <div class="tabs"><?php print $tabs ?></div>
+                            <?php if ($show_messages) { print $messages; } ?>
+                            <?php print $content; ?>
+                        </div>
+                        <div class="clear-block"></div>
+                    </div>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
+<? include('footer.php'); ?>
+
+<?php print $closure ?>
+
+<?php include('sifr_rules.php');?>
+</body>
+</html>

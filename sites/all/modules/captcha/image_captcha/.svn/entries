@@ -1,0 +1,115 @@
+8
+
+dir
+559
+svn://75.149.164.50/dallamagna/sites/all/modules/captcha/image_captcha
+svn://75.149.164.50
+
+
+
+2011-03-03T21:16:09.563144Z
+559
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+image_captcha.info
+file
+
+
+
+
+2011-02-08T00:06:59.000000Z
+13b8ab02fbf65059d9783bec5a644ac3
+2011-03-03T21:16:09.563144Z
+559
+kaudleman
+
+image_captcha.js
+file
+
+
+
+
+2010-11-29T23:34:44.000000Z
+5ea525641afd9f7207c29d8c639b9a87
+2011-03-03T21:16:09.563144Z
+559
+kaudleman
+
+image_captcha.admin.inc
+file
+
+
+
+
+2010-11-29T23:33:37.000000Z
+abc2c1d4e885a9c8c73dd5fd48d60217
+2011-03-03T21:16:09.563144Z
+559
+kaudleman
+
+fonts
+dir
+
+image_captcha.module
+file
+
+
+
+
+2011-02-06T20:45:12.000000Z
+39c34d5feb4e8a354d95d9249e556a7c
+2011-03-03T21:16:09.563144Z
+559
+kaudleman
+
+image_captcha.install
+file
+
+
+
+
+2010-06-01T21:28:11.000000Z
+1f3b6a50ef9eb094d5baa99cc0b98e74
+2011-03-03T21:16:09.563144Z
+559
+kaudleman
+
+image_captcha.user.inc
+file
+
+
+
+
+2010-11-29T23:33:37.000000Z
+02d0283a6d336f5b22d2035dbab15eaa
+2011-03-03T21:16:09.563144Z
+559
+kaudleman
+
+image_captcha-rtl.css
+file
+
+
+
+
+2010-11-29T23:33:37.000000Z
+06c7d12eddcf14eb49c02951692ecb71
+2011-03-03T21:16:09.563144Z
+559
+kaudleman
+
+image_captcha.css
+file
+
+
+
+
+2009-12-15T23:55:23.000000Z
+e03f56abba6ef09268906cc394c6adb1
+2011-03-03T21:16:09.563144Z
+559
+kaudleman
+

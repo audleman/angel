@@ -1,0 +1,40 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/fckeditor/fckeditor/editor/css/behaviors
+svn://10.0.0.100
+
+
+
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+disablehandles.htc
+file
+
+
+
+
+2010-08-28T18:08:02.000000Z
+6d4a9315ac5181b5357db21f0c5f04fe
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+
+showtableborders.htc
+file
+
+
+
+
+2010-08-28T18:08:02.000000Z
+ff440605e399b371145d1883a9912cf3
+2010-08-28T18:09:40.305123Z
+399
+kaudleman
+

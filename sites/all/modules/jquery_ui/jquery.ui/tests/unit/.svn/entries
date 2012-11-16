@@ -1,0 +1,79 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/tests/unit
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+testsuite.css
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+976d612ccd997d031f1e84031890515b
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+resizable
+dir
+
+slider
+dir
+
+core
+dir
+
+tabs
+dir
+
+progressbar
+dir
+
+dialog
+dir
+
+accordion
+dir
+
+selectable
+dir
+
+testsuite.js
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+d0d0b3741d2266abbb8dbd93b4ed0032
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+droppable
+dir
+
+draggable
+dir
+
+all
+dir
+
+sortable
+dir
+
+datepicker
+dir
+

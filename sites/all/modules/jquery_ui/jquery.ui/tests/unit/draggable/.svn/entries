@@ -1,0 +1,40 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/tests/unit/draggable
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+draggable.js
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+444050789e080b8715b0680c8a8c4db3
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+draggable.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+913ea0fcbedb3d0d48f67070f1a5305e
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+

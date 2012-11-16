@@ -1,0 +1,40 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/tests/unit/tabs
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+tabs.js
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+bee8ed5a8c1189790fb08942e7242431
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+tabs.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+ebc0b73782d111c2bb4e8d608177cb16
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+

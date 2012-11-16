@@ -1,0 +1,52 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/tests/visual/datepicker
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+viewport.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+92c063c66f77b484f7c40a1115ee5be8
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+default.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+621ad3c433d9d7e26635c71545148282
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+datepicker.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+98f3e7f1d6e1affa599bc7260565ff05
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+

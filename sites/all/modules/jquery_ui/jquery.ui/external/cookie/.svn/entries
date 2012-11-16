@@ -1,0 +1,65 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/external/cookie
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+jquery.cookie.pack.js
+file
+
+
+
+
+2010-08-29T19:40:00.000000Z
+328cb8f253eb0d2e98fdaf5d8b507d76
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+jquery.cookie.js
+file
+
+
+
+
+2010-08-29T19:40:00.000000Z
+57c8494aac66963195c6ddf08f1ceba8
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+jquery.cookie.min.js
+file
+
+
+
+
+2010-08-29T19:40:00.000000Z
+88b8a0991ec1bf08a273114f31cbbacc
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+jquery.cookie.zip
+file
+
+
+
+
+2010-08-29T19:40:00.000000Z
+0e090a381fbb86bd1fc544f5eafeae76
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+has-props
+

@@ -1,0 +1,19 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/cck/modules/fieldgroup/panels
+svn://10.0.0.100
+
+
+
+2010-08-29T16:52:20.693857Z
+403
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+content_types
+dir
+

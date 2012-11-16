@@ -1,0 +1,88 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/demos/accordion
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+fillspace.html
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+2f36e01ff6421e8b4e2a6c0dac19dbca
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+custom-icons.html
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+4d6a9d49a2b6b07b7df950c259815ceb
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+default.html
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+ed1de64a63d4c2699376fd97ab3847bd
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+mouseover.html
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+0dcc5287a9774069f0cd34db2e5af274
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+index.html
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+d6cefd5c36305f10e08bcae25f94d653
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+collapsible.html
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+747f2e4a09be5652e232efb092a6ac57
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+

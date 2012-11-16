@@ -1,0 +1,76 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/imce/inc
+svn://10.0.0.100
+
+
+
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+admin.inc
+file
+
+
+
+
+2010-05-29T02:06:32.000000Z
+3c4cc180a8086f0064d200f0df7f715b
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+subdir.inc
+file
+
+
+
+
+2008-02-29T16:57:12.000000Z
+0798a35e6ba19558fa20ead0bfbc9955
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+core_profiles.inc
+file
+
+
+
+
+2008-06-10T08:34:20.000000Z
+8be186cebb47b0fa64eb232a281c8d98
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+js.inc
+file
+
+
+
+
+2008-05-04T15:29:15.000000Z
+fb96f33a90c5b4edb1d7ad0ce06ae7d1
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+
+page.inc
+file
+
+
+
+
+2010-03-08T07:06:51.000000Z
+ab3bb8a9dce25a83dd9f5ef71ae3337d
+2010-08-29T17:09:33.150470Z
+412
+kaudleman
+

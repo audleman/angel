@@ -1,0 +1,64 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/modules/menu
+svn://10.0.0.100
+
+
+
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+menu.admin.inc
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+df62f5313c2a6b496899753c54739a45
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+menu.module
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+61d798cbd1c74f4947f1cfae24a5c81e
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+menu.install
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+5432c52fffcf4a3e1b70bbc2e1081204
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+menu.info
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+14c4de94574bc3765f05a7c2b09745f9
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+

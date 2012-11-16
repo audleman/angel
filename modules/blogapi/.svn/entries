@@ -1,0 +1,52 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/modules/blogapi
+svn://10.0.0.100
+
+
+
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+blogapi.module
+file
+
+
+
+
+2010-08-28T17:42:26.000000Z
+f9d92040b2dd9e69c0a6d04928b61976
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+blogapi.install
+file
+
+
+
+
+2010-08-28T17:42:26.000000Z
+06861b55835adaf2dbe7dbf7aaa238c4
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+blogapi.info
+file
+
+
+
+
+2010-08-28T17:42:26.000000Z
+67437607aff839ea4741b22dfd1584d1
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+

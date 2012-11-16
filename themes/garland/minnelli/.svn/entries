@@ -1,0 +1,69 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/themes/garland/minnelli
+svn://10.0.0.100
+
+
+
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+screenshot.png
+file
+
+
+
+
+2010-08-28T17:42:28.000000Z
+55fd7aebc53a2d02dba4cc6634150c26
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+has-props
+
+minnelli.info
+file
+
+
+
+
+2010-08-28T17:42:28.000000Z
+79af1b318c0a7bdde5f85d0cc5c01e83
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+logo.png
+file
+
+
+
+
+2010-08-28T17:42:28.000000Z
+0ca7c0d29f1b03241c58a6f39de81559
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+has-props
+
+color
+dir
+
+minnelli.css
+file
+
+
+
+
+2010-08-28T17:42:28.000000Z
+1554baf34130a8634257eaff1fbf3b25
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+

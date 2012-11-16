@@ -1,0 +1,52 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/tests/unit/core
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+core.js
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+a570d5cb8536748d543fd279a165c6ea
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+core.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+cc4edf93a083aa2073e702a683b202f7
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+selector.js
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+806d5ef9d4af5d7572bd99e9b8c7e358
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+

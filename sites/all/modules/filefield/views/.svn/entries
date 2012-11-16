@@ -1,0 +1,52 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/filefield/views
+svn://10.0.0.100
+
+
+
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+filefield_handler_field_data.inc
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+8883dfdd2dc87169e773f1f27a22f083
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+filefield.views.inc
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+36715ebbbe428d992ab619c1bf2fd4f6
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+
+filefield.views_convert.inc
+file
+
+
+
+
+2010-08-29T16:53:17.000000Z
+b6ad114201576f0154035d9742b6f2db
+2010-08-29T16:53:37.055991Z
+405
+kaudleman
+

@@ -1,0 +1,155 @@
+<?php
+// $Id: page.tpl.php,v 1.28.2.1 2009/04/30 00:13:31 goba Exp $
+
+
+    global $user;
+
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="<?php print $language->language ?>" xml:lang="<?php print $language->language ?>" dir="<?php print $language->dir ?>">
+
+<head>
+  <?php print $head ?>
+  <title><?php print $head_title ?></title>
+  <?php print $styles ?>
+  <?php print $scripts ?>
+  <script type="text/javascript"><?php /* Needed to avoid Flash of Unstyle Content in IE */ ?> </script>
+</head>
+
+<body>
+<table id="shadow_table" cellspacing="0" cellpadding="0">
+    <tr>
+        <td id="shadow_left"></td>
+        <td>
+            <div id="main_column">
+                <div id="header">
+                    <div class="clear-block"></div>
+                </div>
+                <!-- <div id="top_nav_green_bar"></div> -->
+                <div id="top_nav">
+                    <div id="primary_links">
+                        <?php if (isset($primary_links)) {  
+                                print theme('links', $primary_links, array('class' => 'links', 'id' => 'navlist'));
+                             } ?>
+                    </div>
+                </div>
+    
+                <div id="raising_eyebrows_main">
+                    
+                    <div id="content">
+                        <div id="full_right">
+                            <div class="clear-block"></div>
+                            
+                            
+                            <div id="buy_options" align="center">
+                                <a href="buy-book">
+                                    <img id="buy_book" src="<?php print $base_path . $directory ?>/images/buy_book.gif" alt="Buy the book" />
+                                
+                                <img id="book_jacket_sm" src="<?php print $base_path . $directory ?>/images/book_jacket_sm.jpg" alt="Book jacket" />
+                                </a>
+
+                            </div>
+                            
+                            <div id="newsletter_signup_raising_eyebrows">
+                                <a href="http://dallamagna.com/get-dals-newsletter">
+                                    <img src="<?php print $base_path . $directory ?>/images/newsletter_signup_small.gif">
+                                </a>
+                            </div>
+                            
+                            <div id="login_link_wrapper">
+                                <?php
+                                    if (!$user->uid) {
+                                        ?><a href="user">Sign Up / Login</a><?php
+                                    } else {
+                                        ?><a href="logout">Log Out </a><?php
+                                    }
+                                ?>
+                            </div>
+                            <div class="social_media_div">
+                                <a href="<?php print $base_path ?>blog/feed" target="_blank">
+                                    <img src="<?php print $base_path . $directory ?>/images/rss_icon.gif" alt="Follow Dal's Blog" />
+                                    Dal's Blog Delivered To You
+                                </a>
+                            </div>
+                            <div class="clear-block"></div>
+                            <div class="social_media_div">
+                                <a href="http://www.facebook.com/people/Dal-LaMagna/614500377" target="_blank"> 
+                                    <img src="<?php print $base_path . $directory ?>/images/facebook_icon.gif" alt="Find Dal on Facebook" />
+                                    Find Dal on Facebook
+                                </a>
+                            </div>
+                            <div class="clear-block"></div>
+                            <div class="social_media_div">
+                                <a href="http://www.twitter.com/dallamagna" target="_blank"> 
+                                    <img src="<?php print $base_path . $directory ?>/images/twitter_icon.gif" alt="Find Dal on Facebook" />
+                                    Follow Dal on Twitter
+                                </a>
+                            </div>
+                            <div class="clear-block"></div>
+                            
+                            <div id="tweezerman_affiliate">
+                                <a target="_blank" href="http://www.tweezerman.com/pages/index.cfm?pg=4&amp;topmenu=2&amp;submenu=5&amp;affid=4">
+                                    <img src="<?php print $base_path . $directory ?>/images/tweezerman_small.gif">
+                                </a>
+                                
+                            </div>
+                        </div>
+                        <div id="full_left">
+                            <div id="left_menu">
+                                <?php print $left; ?>
+                            </div>
+                            <div id="cover">
+                                <div class="tabs"><?php print $tabs ?></div>
+                                <?php if ($show_messages) { print $messages; } ?>
+                                <?php print $content; ?>
+                                <!-- <img src="<?php print $base_path . $directory ?>/images/raising_eyebrows_partial.gif" id="raising_eyebrows_jacket" alt="Book jacket" /> -->
+                            </div>
+                            
+                            <div class="clear-block"></div>
+                            <div id="special_materials">
+
+                                <a href="special-materials"><img src="<?php print $base_path . $directory ?>/images/arrow.gif" /></a>
+                                <div id="special_materials_text">
+                                    More stories, more photos, more fun. PLUS! Documents to help you launch your own business<br/>
+                                    <a href="<?php print $base_path?>special-materials"><em>Click here to enter</em></a>
+                                </div>
+                                <div class="clear-block"></div>
+                            </div>
+                            <div class="clear-block"></div>
+                            <div id="ask_dal">
+                                <img src="<?php print $base_path . $directory ?>/images/ask_dal_bubble.gif" id="ask_dal_bubble"/>
+                                <h2 id="ask_dal_header">Ask Dal</h2>
+                                <img src="<?php print $base_path . $directory ?>/images/got_a_question.gif" />
+                                <a href="ask-dal"><img src="<?php print $base_path . $directory ?>/images/go_button.gif" id="ask_dal_go_button"/></a>
+                                <div class="raising_eyebrows_sub_header">
+                                    <a href="ask_dal">RECENT QUESTIONS:</a></div>
+                                <?php print views_embed_view("ask_dal_raising_eyebrows_block"); ?>
+                            </div>
+                            <div id="reviews">
+                                <h2>Reviews</h2>
+                                <?php print views_embed_view("press_listing", "block_1"); ?>
+                                <div style="padding-bottom: 15px"><iframe src="http://player.vimeo.com/video/15352092?title=0&amp;byline=0&amp;portrait=0" width="300" height="161" frameborder="0"></iframe></div>
+                                <div class="raising_eyebrows_sub_header">
+                                    <a href="raising-eyebrows/reader-reactions">READER REACTIONS:</a></div>
+                                    <?php print views_embed_view("reader_reactions", "block_1"); ?>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="clear-block"></div>
+                </div>
+    
+                
+    
+            </div>
+        </td>
+    </tr>
+</table>
+<? include('footer.php'); ?>
+<?php print $closure ?>
+<?php include('sifr_rules.php');?>
+
+</body>
+</html>

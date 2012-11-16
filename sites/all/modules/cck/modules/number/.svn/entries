@@ -1,0 +1,58 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/cck/modules/number
+svn://10.0.0.100
+
+
+
+2010-08-29T16:52:20.693857Z
+403
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+translations
+dir
+
+number.info
+file
+
+
+
+
+2010-08-29T16:51:54.000000Z
+6c850ec447d562961be588118ef571d5
+2010-08-29T16:52:20.693857Z
+403
+kaudleman
+
+help
+dir
+
+number.module
+file
+
+
+
+
+2010-08-29T16:51:54.000000Z
+9231a9b9d3d763d5ac4914545ee058cc
+2010-08-29T16:52:20.693857Z
+403
+kaudleman
+
+number.install
+file
+
+
+
+
+2010-08-29T16:51:54.000000Z
+1fd7ea36c832d348a89aaaae53bd1868
+2010-08-29T16:52:20.693857Z
+403
+kaudleman
+

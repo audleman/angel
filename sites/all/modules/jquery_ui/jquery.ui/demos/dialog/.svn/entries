@@ -1,0 +1,88 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/demos/dialog
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+modal.html
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+8aca85cfce8adcb98037409391bf8869
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+modal-form.html
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+ad659e9b4eadd2d397b465913faaee57
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+modal-message.html
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+f52c5416af0900c00723fd263a78eead
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+modal-confirmation.html
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+3d8582823b6631b4f16b6363c4bd785c
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+default.html
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+cfb46ec847a3d8bea5d0d638ce467e55
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+index.html
+file
+
+
+
+
+2010-08-29T19:39:58.000000Z
+1c75a28c06d1a074743bb31e25b1561d
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+

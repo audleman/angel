@@ -1,0 +1,46 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f74f85d9-7c97-4b0a-a985-38f6ac3230ef
+
+themes
+dir
+
+modules
+dir
+
+README.txt
+file
+
+
+
+
+2010-08-28T17:42:26.000000Z
+f671d1d179c9e89f155b3dc3d612435e
+2010-08-28T18:07:37.220907Z
+398
+kaudleman
+

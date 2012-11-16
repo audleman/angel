@@ -1,0 +1,52 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/transliteration/translations
+svn://10.0.0.100
+
+
+
+2010-08-29T16:56:04.226649Z
+409
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+transliteration.pot
+file
+
+
+
+
+2010-07-16T13:40:55.000000Z
+e69569768a8da7335c768d38c8971262
+2010-08-29T16:56:04.226649Z
+409
+kaudleman
+
+de.po
+file
+
+
+
+
+2010-07-21T18:41:26.000000Z
+9820a0ffeae15df724e35643582858ed
+2010-08-29T16:56:04.226649Z
+409
+kaudleman
+
+sv.po
+file
+
+
+
+
+2009-12-04T00:53:10.000000Z
+e1abb310b35177c9f54cee556355bb26
+2010-08-29T16:56:04.226649Z
+409
+kaudleman
+

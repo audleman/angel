@@ -1,0 +1,82 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/external/bgiframe
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+test
+dir
+
+jquery.bgiframe.pack.js
+file
+
+
+
+
+2010-08-29T19:40:00.000000Z
+a6af9d9fd65b32308400bb64c18669d2
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+ChangeLog.txt
+file
+
+
+
+
+2010-08-29T19:40:00.000000Z
+81b41abc2e23c6b737fdd68bece12ddc
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+jquery.bgiframe.js
+file
+
+
+
+
+2010-08-29T19:40:00.000000Z
+a8dd35ea20e6be651adfe98712008725
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+jquery.bgiframe.min.js
+file
+
+
+
+
+2010-08-29T19:40:00.000000Z
+ccf13c19c631afe15995bd87998715eb
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+docs
+dir
+
+META.json
+file
+
+
+
+
+2010-08-29T19:40:00.000000Z
+a09a5e7e0a0a25759b7d6e73454ea716
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+

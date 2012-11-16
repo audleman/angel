@@ -1,0 +1,52 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/modules/php
+svn://10.0.0.100
+
+
+
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+php.info
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+2be475d26f51c87904187fc67b0bf125
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+php.module
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+f39dab0f8b318dbfcedaf08fb16bd123
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+php.install
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+0cd1a18a757357aed2e8245df5a2b6e8
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+

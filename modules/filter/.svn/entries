@@ -1,0 +1,76 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/modules/filter
+svn://10.0.0.100
+
+
+
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+filter.info
+file
+
+
+
+
+2010-08-28T17:42:26.000000Z
+a1959334f74d0ea7f8da6201838a7b63
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+filter.admin.inc
+file
+
+
+
+
+2010-08-28T17:42:26.000000Z
+b7c77b12acb9c3834f9d737099745ca5
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+filter.module
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+1f2d086c21c435363ba4147414008f67
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+filter.install
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+418cc113cd0abaf543b8604ff071cd30
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+
+filter.pages.inc
+file
+
+
+
+
+2010-08-28T17:42:27.000000Z
+d89d4a2d5897836f6766629b7132312d
+2010-08-28T17:49:52.253837Z
+396
+kaudleman
+

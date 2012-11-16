@@ -1,0 +1,40 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/tests/visual/tabs
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+default.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+7fa4a362f6f9242bb960f00be8051e68
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+tabs.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+c3cfdd28261baa90110b21afbeb7542d
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+

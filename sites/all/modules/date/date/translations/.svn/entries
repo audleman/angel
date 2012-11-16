@@ -1,0 +1,64 @@
+8
+
+dir
+426
+svn://10.0.0.100/dallamagna/sites/all/modules/date/date/translations
+svn://10.0.0.100
+
+
+
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+date.es.po
+file
+
+
+
+
+2009-04-29T11:58:30.000000Z
+8cfbf027fe6a46e1132420d3289aeec3
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date.fr.po
+file
+
+
+
+
+2009-04-12T22:43:46.000000Z
+f2e967c8cd49f68a5cf6cca1c32f346c
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date.de.po
+file
+
+
+
+
+2009-03-08T09:32:10.000000Z
+f4e851c3118850e4fb239211ef314f8e
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+
+date.pot
+file
+
+
+
+
+2009-03-08T09:32:10.000000Z
+dd42c514f4e9d27b92c65e8a790aa302
+2010-09-03T00:55:53.246629Z
+426
+kaudleman
+

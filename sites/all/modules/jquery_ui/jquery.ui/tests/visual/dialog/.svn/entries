@@ -1,0 +1,76 @@
+8
+
+dir
+418
+svn://10.0.0.100/dallamagna/sites/all/modules/jquery_ui/jquery.ui/tests/visual/dialog
+svn://10.0.0.100
+
+
+
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+
+svn:special svn:externals svn:needs-lock
+
+dialog.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+3d0ac41953cf86ed9eefe2a016f5556a
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+default.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+744ff87fa0ac28e46a402d3ffe92f577
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+dialog_option_closeOnEscape_false.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+3e1a00d05bf3e7d8948b3c498d351ad7
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+dialog_on_page_with_scrollbars.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+fd4d56230891dfe6c28111a484842e62
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+
+dialog_option_closeOnEscape_true.html
+file
+
+
+
+
+2010-08-29T19:39:59.000000Z
+f986f5703636a9a227057c96f08d30d8
+2010-08-29T19:42:33.688595Z
+416
+kaudleman
+

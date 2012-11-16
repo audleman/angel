@@ -1,0 +1,201 @@
+body {
+    background-color: white;
+}
+
+#body_bg_color_div {
+    background-color: #003062;
+}
+
+h1, h2, h3, h4 {
+/*    color: #9D3300;*/
+    color: #333;
+    font-weight: normal;
+}
+
+.hr_divider {
+    border: 1px solid #666;
+    width: 90%;
+    margin: 25px auto;
+    padding: 1px 0px;
+}
+
+#wrapper {
+
+    background: #e0e0e0;
+}
+#name-and-slogan {
+    background-color: white;
+}
+
+#animated_man {
+    float: left;
+    width: 120px;
+}
+
+#animated_man img {
+    padding: 16px 0px 0px 10px;
+}
+
+#banner {
+    float: left;
+    width: 500px;
+}
+
+#header .block {
+    margin: 0px;
+    padding: 0px;
+}
+
+/**************************** Top horizontal menu *****************************/
+#block-nice_menus-1 {
+    margin: 0px;
+    padding: 0px;
+    height: 34px;
+    border: 1px solid #9D7800;
+    background-color: #CEB35D;
+}
+
+#block-nice_menus-1 .content {
+    padding: 0px;
+}
+
+#block-nice_menus-1 ul li {
+    padding: 6px 20px;
+    border-color: #9D7800;
+    background-color: #CEB35D;
+    border-top: 0px solid;
+    border-bottom: 0px solid;
+}
+
+#block-nice_menus-1 ul li ul li {
+
+    border-bottom: 1px solid #9D7800;
+}
+
+ul.nice-menu ul {
+    border-top: 0px solid #9D7800;
+}
+
+#block-nice_menus-1 ul li#menu-388 {
+    padding-right: 45px;
+}
+
+#block-nice_menus-1 ul li a {
+    color: #664E00;
+}
+
+#block-nice_menus-1 ul li#menu-371 {
+    border-left: 0px solid;
+}
+
+/*********************** Left menus ***************************/
+
+
+
+#sidebar-left .block-nice_menus {
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid #9D7800;
+    background: none;
+    border: none;
+}
+
+#sidebar-left .block-nice_menus .content {
+    padding: 0px;
+    margin-bottom: 40px;
+}
+
+#sidebar-left .block-nice_menus ul.nice-menu {
+    border-top: 1px solid #9D7800;
+    width: 204px;
+    z-index: 0;
+    margin-left: 10px;
+}
+
+#sidebar-left .block-nice_menus ul.nice-menu li {
+    border-bottom: 1px solid #9D7800;
+}
+
+#sidebar-left .block-nice_menus ul li {
+    padding: 6px 18px;
+    border-color: #9D7800;
+    background-color: #CEB35D;
+    border-top: 0px solid;
+    border-bottom: 0px solid;
+}
+
+/************************** Other ********************************/
+
+#footer-wrapper {
+    padding-top: 15px;
+    border: 1px solid #9D7800;
+    background-color: #CEB35D;
+    color: #664E00;
+}
+
+#footer-wrapper a { 
+    color: #664E00;
+}
+
+.quote_box {
+    float: right;
+    border: 1px solid #222;
+    margin: 5px 0px 5px 20px;
+    padding: 10px;
+    font-size: 11px;
+    width: 190px;
+}
+/***************** Blocks ******************************/
+
+#block-views-client_testimonials-block_1 .content {
+    font-size: .90em;
+    color: #666;
+}
+
+#block-views-client_testimonials-block_1 h2 {
+    color: #666;
+    font-style: italic;
+    font-weight: normal;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+/***************** FCK Templates ***********************/
+.image_and_caption  {
+    width: auto;
+    margin: 5px;
+}
+
+.image_and_caption table td {
+    text-align: center;
+}
+
+.caption {
+    font-size: .85em;
+    font-style: italic;
+    text-align: center;
+}
+
+.left {
+    margin-right: 25px;
+}
+
+.centered {
+    margin: auto;
+}
+
+.right {
+    float: right;
+    margin-left: 25px;
+}
+
+
+/***************** Other ***********************/
+
+#seft_4_schedule,
+#seft_4_schedule td
+{
+    border-collapse: collapse;
+    border: 1px solid #999;
+    padding-left: 5px;
+}

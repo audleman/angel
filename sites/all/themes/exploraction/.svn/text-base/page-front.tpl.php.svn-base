@@ -1,0 +1,117 @@
+<?php
+// $Id: page.tpl.php,v 1.28.2.1 2009/04/30 00:13:31 goba Exp $
+
+
+    global $user;
+
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="<?php print $language->language ?>" xml:lang="<?php print $language->language ?>" dir="<?php print $language->dir ?>">
+
+<head>
+  <?php print $head ?>
+  <title><?php print $head_title ?></title>
+  <?php print $styles ?>
+  <?php print $scripts ?>
+  <script type="text/javascript"><?php /* Needed to avoid Flash of Unstyle Content in IE */ ?> </script>
+</head>
+
+<body>
+<table id="shadow_table" cellspacing="0" cellpadding="0">
+    <tr>
+        <td id="shadow_left"></td>
+        <td>
+            <div id="main_column">
+                <div id="header">
+                    <div class="clear-block"></div>
+                </div>
+                <!-- <div id="top_nav_green_bar"></div>
+                <div id="top_nav">
+                    <div id="primary_links">
+                        <?php if (isset($primary_links)) {  
+                                print theme('links', $primary_links, array('class' => 'links', 'id' => 'navlist'));
+                             } ?>
+                    </div>
+                </div>
+                <div style="height: 25px; background-color: black;">
+                    &nbsp;
+                </div> -->
+                <div id="top_nav">
+                    <div id="primary_links">
+                        <?php if (isset($primary_links)) {  
+                                print theme('links', $primary_links, array('class' => 'links', 'id' => 'navlist'));
+                             } ?>
+                    </div>
+                </div>
+    
+                <div id="main">
+                    
+                    <div id="front_content">
+                        
+                        <img src="<?php print $base_path . $directory ?>/images/dal_lamagna_title.gif" alt="Dal LaMagna - Activist, Entrepreneur, Responsible Capitalist" id="dal_lamagna_title" />
+                        <br clear="both"/>
+                        <div id="col_left">
+                            <div id="dal_portrait">
+                                <img src="<?php print $base_path . $directory ?>/images/dal.jpg" alt="Dal LaMagna" />
+                            </div>
+                            <div class="social_media_div">
+                                <a href="<?php print $base_path ?>blog/feed" target="_blank">
+                                    <img src="<?php print $base_path . $directory ?>/images/rss_icon.gif" alt="Follow Dal's Blog" />
+                                    Dal's Blog Delivered To You
+                                </a>
+                            </div>
+                            <div class="clear-block"></div>
+                            <div class="social_media_div">
+                                <a href="http://www.facebook.com/people/Dal-LaMagna/614500377" target="_blank"> 
+                                    <img src="<?php print $base_path . $directory ?>/images/facebook_icon.gif" alt="Find Dal on Facebook" />
+                                    Find Dal on Facebook
+                                </a>
+                            </div>
+                            <div class="clear-block"></div>
+                            <div class="social_media_div">
+                                <a href="http://www.twitter.com/dallamagna" target="_blank"> 
+                                    <img src="<?php print $base_path . $directory ?>/images/twitter_icon.gif" alt="Find Dal on Facebook" />
+                                    Follow Dal on Twitter
+                                </a>
+                            </div>
+                            <div class="clear-block"></div>
+                            <div id="newsletter_signup_home">
+                                <a href="http://dallamagna.com/get-dals-newsletter">
+                                    <img src="<?php print $base_path . $directory ?>/images/newsletter_signup_big.gif">
+                                </a>
+                            </div>
+                            
+                            <div class="clear-block"></div>
+                            <div id="login_link_wrapper">
+                                <?php
+                                    if (!$user->uid) {
+                                        ?><a href="user">Sign Up / Login</a><?php
+                                    } else {
+                                        ?><a href="logout">Log Out </a><?php
+                                    }
+                                ?>
+                            </div>
+                            
+                        </div>
+                        <div id="col_right">
+                            <div class="tabs"><?php print $tabs ?></div>
+                            <?php if ($show_messages) { print $messages; } ?>
+                            <?php print $content; ?>
+                        </div>
+                    </div>
+                    <div class="clear-block"></div>
+                </div>
+    
+                
+    
+            </div>
+        </td>
+    </tr>
+</table>
+<? include('footer.php'); ?>
+<?php print $closure ?>
+
+<?php include('sifr_rules.php');?>
+
+</body>
+</html>
