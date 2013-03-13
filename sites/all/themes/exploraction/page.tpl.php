@@ -42,7 +42,7 @@
                         <img src="<?php print $base_path . $directory; ?>/images/standing_man.gif" />
                     </div>
                     <div id="banner">
-                        <img src="<?php print $base_path . $directory; ?>/images/header.gif" />
+                        <img src="<?php print $base_path . $directory; ?>/images/header.jpg" />
                     </div>
                     <div style="clear: both"></div>
                 </div> <!-- /name-and-slogan -->
